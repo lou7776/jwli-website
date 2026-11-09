@@ -2,6 +2,9 @@
 
 A static, responsive landing page for the Japanese Women's Leadership Initiative (JWLI), a Boston-based program that brings emerging women leaders from Japan to the U.S. for nonprofit management and leadership training. I built this as a front-end project to practice layout with Flexbox and responsive design.
 
+<img width="1159" height="604" alt="Screenshot 2026-11-09 at 1 31 16 AM" src="https://github.com/user-attachments/assets/91aac18b-23c2-46cf-baa2-d0ed23a50edc" />
+
+
 ## What's on the page
 
 - **Header and nav**: links to Home, Program, JWLIA, Fellows, News, Contact, and a Japanese language link, plus an Apply button
