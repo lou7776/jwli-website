@@ -4,6 +4,7 @@ A static, responsive landing page for the Japanese Women's Leadership Initiative
 
 <img width="1159" height="604" alt="Screenshot 2026-11-09 at 1 31 16 AM" src="https://github.com/user-attachments/assets/91aac18b-23c2-46cf-baa2-d0ed23a50edc" />
 
+**Live Site**: https://jwliii.netlify.app/
 
 ## What's on the page
 
